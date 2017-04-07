@@ -10,10 +10,23 @@
 	<include layout="@layout/view_login"
 		/>
 
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_centerInParent="true"
+		android:gravity="center"
+		android:padding="@dimen/dimen_big"
+		android:background="@color/semi_transparent_black"
+		android:text="@string/login_welcome_message"
+		android:textAppearance="?android:attr/textAppearanceLargeInverse"
+		android:textColor="@color/white"
+		/>
+
 	<Button
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_alignParentBottom="true"
+		android:layout_margin="@dimen/dimen_normal"
 		android:text="@string/login_button_text"
 
 		/>
