@@ -6,6 +6,7 @@ Features I use here:
 - source sets
 - build config fields
 
+By using source sets and gradle compile by flavor, premium application has no single code related to google play services and firebase ads
 
 Screens of app:
 
