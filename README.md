@@ -5,3 +5,8 @@ Features I use here:
 - product flavors
 - source sets
 - build config fields
+
+
+Screens of app:
+
+Free flavor, login page:
