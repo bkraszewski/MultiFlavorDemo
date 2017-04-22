@@ -10,3 +10,13 @@ Features I use here:
 Screens of app:
 
 Free flavor, login page:
+![Alt text](https://github.com/bkraszewski/MultiFlavorDemo/blob/master/art/free_login.png "Free Login Page")
+
+Free flavor, main page:
+![Alt text](https://github.com/bkraszewski/MultiFlavorDemo/blob/master/art/free_main.png "Free Login Page")
+
+Premium flavor, login page:
+![Alt text](https://github.com/bkraszewski/MultiFlavorDemo/blob/master/art/premium_login.png "Free Login Page")
+
+Premium flavor, main page:
+![Alt text](https://github.com/bkraszewski/MultiFlavorDemo/blob/master/art/premium_main.png "Free Login Page")
