@@ -1,5 +1,4 @@
 <resources>
-	<string name="app_name">MultiFlavorDemo</string>
 	<string name="login_button_text">Login</string>
 	<string name="login_welcome_message">Hello World</string>
 </resources>

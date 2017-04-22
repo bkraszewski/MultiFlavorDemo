@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="login_welcome_message">Hello our Dear Customer!</string>
+	<string name="app_name">MF Demo Free</string>
 </resources>

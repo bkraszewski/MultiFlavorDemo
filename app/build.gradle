@@ -35,6 +35,7 @@ android {
         premium {
             applicationId 'io.bkraszewski.multiflavordemo.paid'
             buildConfigField 'boolean', 'FEATURE_ENABLED', 'true'
+
             hasAds = false
         }
         free {
