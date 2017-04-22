@@ -10,6 +10,7 @@
         android:layout_height="wrap_content"
         android:gravity="start"
         android:padding="@dimen/dimen_big"
+        android:text="Very important Quote"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
         tools:text="Quote of a Day" />
 
@@ -19,6 +20,7 @@
         android:layout_marginEnd="@dimen/dimen_big"
         android:layout_marginRight="@dimen/dimen_big"
         android:gravity="end"
+        android:text="Someone Very Important"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
         tools:text="Konfucius" />
 

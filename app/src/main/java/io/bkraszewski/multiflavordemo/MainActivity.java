@@ -11,6 +11,9 @@ public class MainActivity extends AppCompatActivity {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        AdManager manager = new AdsManagerImpl();
+        manager.onCreate(this);
     }
 
     public static void start(Context context) {
